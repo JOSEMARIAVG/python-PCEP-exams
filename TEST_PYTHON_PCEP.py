@@ -1367,7 +1367,7 @@ print([i for i in x if i**2 > 4])
 [1,2]  #3
 [4]  #4
 
-# CORRECT OPTION: 2 - List comprehension filters elements whose square > 4.
+# CORRECT OPTION: 1 - List comprehension filters elements whose square > 4.
 
 #------------------------------------------------------------------------------------------------------
 # QUESTION 85
@@ -1569,7 +1569,7 @@ A
 3  30  #3
 Error  #4
 
-# CORRECT OPTION: 2 - groupby with column selection computes mean per group.
+# CORRECT OPTION: 1 - groupby with column selection computes mean per group.
 
 #------------------------------------------------------------------------------------------------------
 # QUESTION 96
